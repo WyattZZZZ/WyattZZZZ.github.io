@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - 'talks/**'
-      - 'talkmap.ipynb'
+      - '../../activitymap.ipynb'
 
 jobs:
   build:

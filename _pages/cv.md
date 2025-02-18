@@ -11,31 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Suzhou, Xi'an Jiaotong-Liverpool University, 2023-2027
 
-Work experience
+Courses
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Employments
+======
+  <ul>{% for post in site.employments reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Project experience
+======
+* Spring 2025: Research Member
+  * Xi'an Jiaotong-Liverpool University
+  * Duties included: Develop an algorithm to clamp non-destructively by robotic arm
+  * Supervisor: Professor and PhD student
+
+* Winter 2024: Research Group Leader
+  * Fudan University
+  * Duties included: Design and develop an auto-driving model car.
+  * Supervisor: Professor
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Programming Language: Python, C++, Java, HTML ...
+* Algorithm Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -47,18 +50,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Activities
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.activities reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
