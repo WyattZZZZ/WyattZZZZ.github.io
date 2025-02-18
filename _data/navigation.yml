@@ -8,15 +8,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Employments"
+    url: /employments/
+    
   - title: "Talks"
     url: /talks/
 
   - title: "Talks Map"
     url: /talkmap.html   
 
-  - title: "Employments"
-    url: /employments/
-    
   - title: "Portfolio"
     url: /portfolio/
         
