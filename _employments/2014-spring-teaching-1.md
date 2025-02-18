@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "AI Agent Intern"
 collection: employments
-type: "Undergraduate course"
-permalink: /employments/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "SoSoValue"
+permalink: /employments/SoSoValue
+date: August 8th, 2024 - Febuary 8th, 2024
+location: "Sigapore, Sigapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+## Position Tasks
 ======
 
-Heading 2
+## Achievements
 ======
 
-Heading 3
+## Techniques
 ======
