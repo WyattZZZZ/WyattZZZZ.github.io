@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Wyatt's Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wyatt Cheung"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "An AI + Robotics Green Hand"
   location         : "Suzhou, Jiangsu Province, China"
   employer         : "Xi'an Jiaotong-Liverpool University"
