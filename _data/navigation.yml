@@ -11,11 +11,8 @@ main:
   - title: "Employments"
     url: /employments/
     
-  - title: "Talks"
+  - title: "Activities"
     url: /talks/
-
-  - title: "Talks Map"
-    url: /talkmap.html   
 
   - title: "Portfolio"
     url: /portfolio/

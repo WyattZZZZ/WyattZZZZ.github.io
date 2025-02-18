@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Activities"
+permalink: /activities/
+author_profile: true
+---
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've participated!</a></p>
+
+{% for post in site.activities reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
