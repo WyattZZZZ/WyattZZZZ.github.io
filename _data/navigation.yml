@@ -12,7 +12,7 @@ main:
     url: /employments/
     
   - title: "Activities"
-    url: /talks/
+    url: /activities/
 
   - title: "Portfolio"
     url: /portfolio/
