@@ -53,7 +53,7 @@ Publications
 Activities
 ======
   <ul>{% for post in site.activities reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-activities-cv.html  %}
   {% endfor %}</ul>
   
 
