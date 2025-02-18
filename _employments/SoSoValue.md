@@ -3,7 +3,7 @@ title: "AI Agent Intern -- SoSoValue"
 collection: employments
 type: "SoSoValue"
 permalink: /employments/SoSoValue
-date: August 8th, 2024 - Febuary 8th, 2024
+date: August 8th, 2024
 location: "Singapore, Singapore"
 ---
 

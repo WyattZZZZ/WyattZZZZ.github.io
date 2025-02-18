@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Wyatt's Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,7 +23,7 @@ repository               : "wyattzzzz/wyattzzzz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wyatt Cheung"
+  name             : "Wyatt Chung"
   pronouns         : "he/him"
   bio              : "An AI + Robotics Green Hand"
   location         : "Suzhou, Jiangsu Province, China"
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,20 +46,20 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/WyattZZZZ"
-  kaggle           : # Username  
+  kaggle           : "https://www.kaggle.com/wyattzzzzz"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "Wyatt Zhang"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "wyatt.zhang1321"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Ziye Zhang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -88,9 +88,9 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -100,7 +100,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -250,9 +250,9 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: employments
     values:
-      layout: single
+      layout: employments
       author_profile: true
       share: true
       comments: true
@@ -274,12 +274,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _activities
   - scope:
       path: ""
-      type: talks
+      type: activities
     values:
-      layout: talk
+      layout: activities
       author_profile: true
       share: true
 
