@@ -45,13 +45,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/WyattZZZZ"
-  kaggle           : "https://www.kaggle.com/wyattzzzzz"
+  github           : "WyattZZZZ"
+  kaggle           : "wyattzzzzz"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "Wyatt Zhang"
+  facebook         : "profile.php?id=61558355537313"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : "wyatt.zhang1321"
   lastfm           : # Username
-  linkedin         : "Ziye Zhang"
+  linkedin         : "ziye-zhang-92395131b/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
