@@ -13,3 +13,7 @@ node_modules
 package-lock.json
 
 .DS_Store
+
+markdown_generator/*
+.vscode/*
+.github/*
