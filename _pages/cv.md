@@ -15,6 +15,19 @@ Education
 
 Courses
 ======
+Introduction to Programming, 
+Computer Science I & II, 
+Discrete Mathematics, 
+Data Structures and Algorithms, 
+Computer Organization and Architecture, 
+Calculus I & II, 
+Linear Algebra, 
+Statistics and Probability,
+perating Systems, 
+Database Management Systems, 
+Programming Languages: Python, Java, C++, 
+Artificial Intelligence, 
+Machine Learning
 
 Employments
 ======
