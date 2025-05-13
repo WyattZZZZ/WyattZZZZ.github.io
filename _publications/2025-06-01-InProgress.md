@@ -1,12 +1,15 @@
 ---
 title: "A Generic Workflow for Zero-Damage Grasping of Delicate Produce Using LLMs and Volume Estimation"
-collection: conference
+collection: publications
+category: manuscripts
 permalink: /publication/2025-06-01-Inprogress
 excerpt: 'We propose a multimodal robotic grasping system designed for damage-free manipulation of diverse fruits and vegetables. The model integrates semantic reasoning via Large Language Models (LLMs), visual grounding through Grounding DINO, and geometric perception from point cloud data to estimate object mass and generate adaptive grasp strategies.'
 date: 2025-06-01
-venue: 'Inprogress'
-paperurl: 'Inprogress'
-citation: 'Inprogress'
+venue: 'InProgress'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 <a href='Inprogress'>Download paper here</a>

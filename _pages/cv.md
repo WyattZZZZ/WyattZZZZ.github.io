@@ -60,7 +60,7 @@ Project experience
   
 Skills
 ======
-* Programming Language: Python, C++, Java, HTML ...
+* Programming Language: Python, C++, Java, HTML...
 * Prompt Engineering
 * Data Collection and Filtering
 * LLM fine-tuning, Dify, Coze, Langchain
@@ -72,7 +72,7 @@ Skills
   * Point Cloud Processing
   * Reinforcement Learning
   * Mojuco
-* MS 360, gradio, moviepy, Pr, Ai ...
+* MS 360, git, Linux, gradio, moviepy, Pr, Ai ...
 
 Publications
 ======
