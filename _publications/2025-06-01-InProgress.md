@@ -9,7 +9,7 @@ venue: 'InProgress'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ziye Zhang, XiaXiao Yu, Jinyu hao. (2025). &quot;Paper Title Number 1.&quot; <i>InProgress</i>. 1(1).'
 ---
 
 <a href='Inprogress'>Download paper here</a>
